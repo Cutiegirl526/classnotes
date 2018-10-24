@@ -1,0 +1,44 @@
+body{
+	background-color: #53a6c9;
+}
+.greetings{
+	border: 1px solid black;
+	background-color: #db5ead;
+}
+.container{
+	background-color: white;
+	border: 1px solid black;
+}
+
+.history{
+	background-color: orange;
+	border: 1px solid black;
+}
+.hNotes{
+	background-color: white;
+	border: 1px solid black;
+}
+.hwnst{
+	background-color: aqua;
+	border: 1px solid black;
+}
+.hwnNotes{
+	background-color: white;
+	border: 1px solid black;
+}
+.cs200{
+	background-color: maroon;
+	border: 1px solid black;
+}
+.csNotes{
+	background-color: white;
+	border: 1px solid black;
+}
+.uni{
+	background-color: teal;
+	border: 1px solid black;
+}
+.uniNotes{
+	background-color: white;
+	border: 1px solid black;
+}
